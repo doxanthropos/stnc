@@ -1,6 +1,6 @@
 {
   "name": "stnc - Simple Telephone Number Converter",
-  "version": "1.0",
+  "version": "0.1",
   "description": "Converts telephone numbers on websites into clickable tel: links",
   "manifest_version": 2
 }
